@@ -1,0 +1,38 @@
+html{
+    background-image:url("../html web/aa.jpg") ;
+    background-color:red ;
+    width:800px;
+    margin-left:10%;/*هاذي تاخد حتى السالب*/
+	width:80%;
+    height:400px;
+	margin-right:10%;	
+    background-image:scroll;
+    background-size:contain; 
+
+}
+h1{
+    position:center;
+    font-size:90pt;
+    font-style: Algerian;
+    color: #5a463b;
+background-color:#a9a9a957 ;
+border:rgb(104, 84, 44);
+border:(60 ) ;
+padding: 50px;
+background-position:center;
+
+}
+p{
+    position:left ;
+    font-size:40pt;
+    color: #ded4ce;
+}
+/*background-color:#a9a9a957 ;*/
+header {
+}
+header.container{
+display:flex ;
+justify-content:space-between;
+align-items:center;
+position:relative;
+}
